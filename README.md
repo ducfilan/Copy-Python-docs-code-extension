@@ -25,3 +25,10 @@ for i in range(4):
   transposed.append(transposed_row)
 ```
 in clipboard.
+
+---
+
+## Install
+
+1. Clone the repo
+2. Follow the official instruction to load the extension: https://developer.chrome.com/extensions/getstarted#unpacked
